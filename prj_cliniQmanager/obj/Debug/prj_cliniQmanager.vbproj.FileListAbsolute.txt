@@ -1,0 +1,43 @@
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.AssemblyReference.cache
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.SuggestedBindingRedirects.cache
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\Interop.ADODB.dll
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.ResolveComReference.cache
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_login.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.Resources.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.GenerateResource.cache
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.CoreCompileInputs.cache
+D:\ADSMA2\SI\N2\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.exe.config
+D:\ADSMA2\SI\N2\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.exe
+D:\ADSMA2\SI\N2\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.pdb
+D:\ADSMA2\SI\N2\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.xml
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.exe
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.xml
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.pdb
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_menuAdmin.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_consultas.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_menuAtendente.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_pacientes.resources
+D:\ADSMA2\SI\N2\prj_cliniQmanager\bin\Debug\Guna.UI.dll
+D:\ADSMA2\SI\N2\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.CopyComplete
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.exe.config
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.exe
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.pdb
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\bin\Debug\prj_cliniQmanager.xml
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\Interop.ADODB.dll
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.ResolveComReference.cache
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_consultas.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_login.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_menuAtendente.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_pacientes.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.Resources.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.GenerateResource.cache
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.vbproj.CopyComplete
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.exe
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.xml
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.pdb
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_funcionarios.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_medicos.resources
+C:\Users\Guilherme\Documents\FATEC SCS 2022\ADSMA2\SISTEMA DE INFORMACAO\prj_cliniQmanager\obj\Debug\prj_cliniQmanager.frm_menuAdmin.resources
